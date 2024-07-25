@@ -8,6 +8,6 @@ I'm Zakaria Aabab, a Network Engineer and Software Engineering student with a pa
 
 💬 Feel free to reach out for tech discussions or if you need assistance with anything tech-related.
 
-📫 Connect with me via email at zakariaaabab@gmail.com or on LinkedIn: [Zakaria Aabab](https://www.linkedin.com/in/aabab-zakaria-68264a1b1/)
+📫 Connect with me via email at zakariaaabab@gmail.com.
 
 All the best! 🚀
