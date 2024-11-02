@@ -21,20 +21,13 @@ I'm **Zakaria Aabab**, a **Network Engineer** and **Software Engineering student
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
+
+Here's a look at the core tools and technologies I work with:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAabab&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAabab&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,js,nodejs,git,kubernetes,bash" alt="Tech Stack Icons" />
 </p>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZakariaAabab&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
