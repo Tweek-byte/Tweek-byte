@@ -21,16 +21,6 @@ I'm **Zakaria Aabab**, a **Network Engineer** and **Software Engineering student
 
 ---
 
-## ⚙️ Tech Stack
-
-Here's a look at the core tools and technologies I work with:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,python,js,nodejs,git,kubernetes,bash" alt="Tech Stack Icons" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
